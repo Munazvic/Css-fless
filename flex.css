@@ -1,0 +1,32 @@
+.div-cont{
+/* height:50px;
+Width: 100px; */
+height: 150px;
+border-radius: 1;
+display: flex;
+background-color: aqua;
+justify-content: center;
+align-items: flex-start;
+align-items: center;
+}
+.div1{
+height: 50px;
+width: 100px;
+background-color: palegreen;
+}
+.div2{
+    height: 50px;
+    width: 100px;
+    background-color:yellow;
+}
+.div3{
+    height: 50px;
+    width: 100px;
+    background-color: rgb(245, 86, 23);
+}
+.div4{
+    height: 50px;
+    width: 100px;
+    background-color: azure;
+}
+
